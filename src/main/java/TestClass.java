@@ -35,7 +35,7 @@ public class TestClass {
             System.out.println("searchBox bulundu.");
 
         }
-        // Eğer driver bir element bulursa ekrana searchBox bulunamadı yazdırır
+        // Eğer driver bir element bulamazsa ekrana searchBox bulunamadı yazdırır
         else {
             System.out.println("searchBox bulunamadı!");
 
